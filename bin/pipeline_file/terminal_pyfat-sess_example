@@ -1,0 +1,1 @@
+pyfat-sess -sessid_file /home/brain/workingdir/pyfat/bin/pipeline_file/subjects_id -sesspar_file /home/brain/workingdir/pyfat/bin/pipeline_file/subjects_path -pipeline_name /home/brain/workingdir/pyfat/bin/pipeline_file/pipeline

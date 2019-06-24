@@ -1,0 +1,2 @@
+pyfat-sess -sf '/home/brain/workingdir/data/dwi/hcp/preprocessed/response_dhollander/101309/Diffusion/sess_id.txt' -subpath '/home/brain/workingdir/data/dwi/hcp/preprocessed/response_dhollander/' -pipeline '/home/brain/workingdir/pyfat/bin/pipeline' -n 13
+

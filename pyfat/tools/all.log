@@ -1,0 +1,12 @@
+2018-06-26 15:45:48,299 - /home/brain/workingdir/pyfat/pyfat/tools/mylogging.py[line:42] - DEBUG: debug
+2018-06-26 15:45:48,300 - /home/brain/workingdir/pyfat/pyfat/tools/mylogging.py[line:43] - INFO: info
+2018-06-26 15:51:02,689 - /home/brain/workingdir/pyfat/pyfat/tools/mylogging.py[line:42] - DEBUG: debug
+2018-06-26 15:51:02,689 - /home/brain/workingdir/pyfat/pyfat/tools/mylogging.py[line:43] - INFO: info
+2018-06-26 15:51:02,689 - /home/brain/workingdir/pyfat/pyfat/tools/mylogging.py[line:44] - WARNING: Warning
+2018-06-26 15:51:02,689 - /home/brain/workingdir/pyfat/pyfat/tools/mylogging.py[line:45] - ERROR: ReferenceError
+2018-06-26 15:51:02,689 - /home/brain/workingdir/pyfat/pyfat/tools/mylogging.py[line:46] - CRITICAL: Severity
+2018-06-26 15:53:48,044 - /home/brain/workingdir/pyfat/pyfat/tools/test_mylogging.py[line:9] - DEBUG: debug
+2018-06-26 15:53:48,044 - /home/brain/workingdir/pyfat/pyfat/tools/test_mylogging.py[line:10] - INFO: info
+2018-06-26 15:53:48,044 - /home/brain/workingdir/pyfat/pyfat/tools/test_mylogging.py[line:11] - WARNING: Warning
+2018-06-26 15:53:48,044 - /home/brain/workingdir/pyfat/pyfat/tools/test_mylogging.py[line:12] - ERROR: ReferenceError
+2018-06-26 15:53:48,044 - /home/brain/workingdir/pyfat/pyfat/tools/test_mylogging.py[line:13] - CRITICAL: Severity
